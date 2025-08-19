@@ -1,5 +1,4 @@
 Gildardo Orea Amador 💻
-(Coding GIF placeholder)
 
 Hey there! I’m Gildardo, a master’s student in Software Engineering with a concentration in Cyber Secure Systems @ UTEP, and a front-end developer passionate about building data-driven and AI-powered web applications that make complex information more intuitive and accessible. 🌎✨
 
