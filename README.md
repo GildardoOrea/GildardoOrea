@@ -29,7 +29,7 @@ Hackathon Projects —
 • LangChain AI LLM: Automated Excel reports & dashboards for 2,500+ municipalities
 
 🤝 Let’s Connect!
-🔗 [[LinkedIn](https://www.linkedin.com/in/gildardoor/)] | 🔗 [GitHub] | 🔗 [Portfolio/Website]
+🔗 [[LinkedIn](https://www.linkedin.com/in/gildardoor/)] | 🔗 [[Resume](GildardoOreaResume.pdf)] | 🔗 [Portfolio/Website]
 
 🎯 Fun Fact
 When I’m not coding or I love drawing, spending time outdoors hiking and playing video games. 🚀
